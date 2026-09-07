@@ -1,0 +1,10 @@
+{
+  "description": "Streamlines vehicle maintenance with AI-driven health scores, service booking, payment, and real-time tracking for customers, mechanics, and service centers.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
